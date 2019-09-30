@@ -1,0 +1,2 @@
+node_modules
+# cuando el proyecto se va subir a producción se decomenta esta linea para que no se suba este archivo =>  .env
